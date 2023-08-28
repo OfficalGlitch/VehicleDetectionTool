@@ -75,7 +75,7 @@ while True:
                     cv2.rectangle(frame, (x1, y1), (x2, y2), (0, 255, 255), 1)
                     # Put text showing the class name and accuracy percentage near the top-left corner of the bounding box.
                     cvzone.putTextRect(frame,
-                                       f'{classNames[classinx]} {accuracy}%',
+                                       f'{classNames[classinx]}: {accuracy}%',
                                        [x1 - 8, y1 - 12],
                                        thickness=2,
                                        scale=1.5)

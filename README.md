@@ -52,4 +52,4 @@ __Download the requirments.txt file to get started.__
 
 
 ## License
-SORT is released under the GPL License (refer to the LICENSE file for details) to promote the open use of the
+SORT is released under the GPL License (refer to the LICENSE file for details) to promote the open use of the tracker and future improvements.

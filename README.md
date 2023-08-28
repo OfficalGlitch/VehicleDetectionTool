@@ -28,9 +28,16 @@ _Solution:_ A HOV (High Occupancy Vehicle) Lane has to be built into the highway
 ## Getting Started
 __Prerequisites:__
 
-Download the requirments.txt file to get started.
+Python 3.x
+OpenCV
+NumPy
+ultralytics (for YOLO)
+cvzone (for drawing text and rectangles)
+YOLOv8n Model - Download and place in the project directory.
+Video file (e.g., Vid3.mp4) for testing.
 
-input your own video stream (.mp4) file.
+__Download the requirments.txt file to get started.__
+
 
 ## RESULT
 <img width="802" alt="Screenshot 2023-08-28 at 1 29 43 AM" src="https://github.com/OfficalGlitch/VehicleDetectionTool/assets/77417270/f1d16d25-cfed-4142-b393-add79a4d525b">

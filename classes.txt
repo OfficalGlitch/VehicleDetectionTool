@@ -1,0 +1,13 @@
+person
+bicycle
+car
+motorbike
+aeroplane
+bus
+truck
+boat
+traffic light
+fire hydrant
+stop sign
+parking meter
+

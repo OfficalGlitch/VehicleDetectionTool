@@ -25,7 +25,7 @@ _Problem:_ During congestion most vehicles under analysis are identified as "Tru
 _Solution:_ A HOV (High Occupancy Vehicle) Lane has to be built into the highway for trucks in order to optimize traffic flow.
 
 
-##Getting Started
+## Getting Started
 __Prerequisites:__
 Download the requirments.txt file to get started.
 input your own video stream (.mp4) file.

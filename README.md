@@ -51,3 +51,5 @@ __Download the requirments.txt file to get started.__
 <img width="222" alt="screenshot" src="https://github.com/OfficalGlitch/VehicleDetectionTool/assets/77417270/380e7bd9-4138-4631-bb37-178a47935153">
 
 
+## License
+SORT is released under the GPL License (refer to the LICENSE file for details) to promote the open use of the

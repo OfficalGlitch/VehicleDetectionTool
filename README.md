@@ -29,11 +29,17 @@ _Solution:_ A HOV (High Occupancy Vehicle) Lane has to be built into the highway
 __Prerequisites:__
 
 Python 3.x
+
 OpenCV
+
 NumPy
+
 ultralytics (for YOLO)
+
 cvzone (for drawing text and rectangles)
+
 YOLOv8n Model - Download and place in the project directory.
+
 Video file (e.g., Vid3.mp4) for testing.
 
 __Download the requirments.txt file to get started.__

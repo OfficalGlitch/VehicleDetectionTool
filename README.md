@@ -11,7 +11,7 @@ This project demonstrates how to detect and track vehicles in a video stream usi
 
 ## Confidence Score Thresholding
 
-The Score-Threshold technique was used to make sure that the vehicles being tracked were accurate (>70%).
+The Score-Threshold technique was used to make sure that the vehicles being tracked were of accurate type (eg: Truck, car, etc) (>70%).
 
 
 
@@ -23,6 +23,12 @@ Traffic Flow: By tracking the movement of vehicles, Using this system, you can a
 _Problem:_ During congestion most vehicles under analysis are identified as "Trucks".
 
 _Solution:_ A HOV (High Occupancy Vehicle) Lane has to be built into the highway for trucks in order to optimize traffic flow.
+
+
+##Getting Started
+__Prerequisites:__
+Download the requirments.txt file to get started.
+input your own video stream (.mp4) file.
 
 ## RESULT
 <img width="802" alt="Screenshot 2023-08-28 at 1 29 43 AM" src="https://github.com/OfficalGlitch/VehicleDetectionTool/assets/77417270/f1d16d25-cfed-4142-b393-add79a4d525b">
